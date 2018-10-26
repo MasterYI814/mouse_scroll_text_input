@@ -230,10 +230,7 @@ a.style.background="#AAEFF1"; //initial color shown on the buttons
               a.style.background="#FFFFFF";
             }
         }
-        //document.getElementById('whale').addEventListener('dblclick',function(){
-        //  document.getElementById('frame').value += ' ';
-          //console.log('double click');
-      //  });
+
       //when hear a mouse click, input the character or space or backspace
         document.getElementById('whale').addEventListener('click',function(){
           console.log('single click');
